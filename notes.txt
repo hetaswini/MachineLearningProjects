@@ -9,4 +9,7 @@ git commit -m "first commit"
 git branch -M main
 ## git remote add origin https://github.com/hetaswini/Data-Science.git
 git remote add origin https://github.com/hetaswini/MachineLearningProjects.git
+git remote -v
+git config --global user.name "hetaswini"
+git config --global user.email "thathagarhetaswini93@gmail.com"
 git push -u origin main
