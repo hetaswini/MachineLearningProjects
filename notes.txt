@@ -13,3 +13,7 @@ git remote -v
 git config --global user.name "hetaswini"
 git config --global user.email "thathagarhetaswini93@gmail.com"
 git push -u origin main
+pip install -r requirements.txt
+git add .
+git status
+git commit -m "setup and requirements"
